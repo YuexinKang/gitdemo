@@ -1,11 +1,15 @@
 package com.soft1841.demo1;
+/**
+ * 异常处理，掌握try-catch-finally
+ * 3.11
+ */
 
 import java.util.Scanner;
 
 public class Tomato {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-       System.out.println("今天的西红柿单价(单价格式为“3.00”)：");
+        System.out.println("今天的西红柿单价(单价格式为“3.00”)：");
         String dayPrice = sc.next();
         if (dayPrice.length() == 4){
             try{

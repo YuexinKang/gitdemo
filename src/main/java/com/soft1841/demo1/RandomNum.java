@@ -1,9 +1,14 @@
 package com.soft1841.demo1;
+/**
+ * 随机数-大乐透号码的生成
+ * 3.12
+ */
 
 import java.util.Random;
 
 public class RandomNum {
     public static void main(String[] args) {
+        //随机种子
         Random random = new Random();
         //循环五组号码
         for (int i = 0; i < 5; i++) {
@@ -32,11 +37,11 @@ public class RandomNum {
             for (int j = 0; j < 5; j++) {
                 System.out.print(before[j] + " ");
             }
-            System.out.print("    ");
+                System.out.print("    ");
             for (int j = 0; j < 2; j++) {
                 System.out.print(after[j] + " ");
             }
-            System.out.println();
+                System.out.println();
         }
     }
     }

@@ -6,6 +6,7 @@ import com.soft1841.demo1.dao.Sing;
 public class Elf implements Move, Sing {
 
     public void move() {
+
         System.out.println("移动");
     }
 
@@ -16,7 +17,7 @@ public class Elf implements Move, Sing {
     }
 
     public static void main(String[] args) {
-        Elf elf=new Elf();
+        Elf elf = new Elf();
         System.out.println("精灵可以：");
         elf.move();
         elf.sing();
