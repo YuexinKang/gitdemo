@@ -19,7 +19,7 @@ public class DateDifferentExample {
         } catch (ParseException e) { e.printStackTrace();
         }
         //将毫秒分别换算成秒、分、小时、天
-        long diffSeconds = diff / 1000;
+       long diffSeconds = diff / 1000;
         long diffMinutes = diff / (1000 * 60);
         long diffHours = diff / (1000 * 60 * 60);
         long diffDays = diff / (1000 * 60 * 60 * 24);
