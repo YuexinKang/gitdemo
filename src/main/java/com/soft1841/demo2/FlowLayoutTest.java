@@ -7,8 +7,8 @@ package com.soft1841.demo2;
 import javax.swing.*;
 import java.awt.*;
 
-public class Question extends JFrame {
-    public  Question(){
+public class FlowLayoutTest extends JFrame {
+    public FlowLayoutTest(){
         setTitle("题目");
         Container container = getContentPane();
         setLayout(new FlowLayout(FlowLayout.RIGHT,10,10));
@@ -22,7 +22,7 @@ public class Question extends JFrame {
         setVisible(true);
     }
     public static void main(String[] args) {
-        new Question();
+        new FlowLayoutTest();
 
     }
 }
