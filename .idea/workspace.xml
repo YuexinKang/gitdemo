@@ -2,80 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="本周小打卡作业">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/ArticleListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/BookListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/ClendarTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/DateAndTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/DateDifferentExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/DateDifferentTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/DeteFormatTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Elf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/FruitList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Line.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/PokerCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/PokerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/PokerList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/RandomNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/SA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/StringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/StudentTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Tomato.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/WeekDay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/Weeks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/dao/Move.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo1/dao/Sing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/BorderLayoutPosition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/BorderLayoutTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/BoxLayoutTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/FlowLayoutPosition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/FlowLayoutTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/FolderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/GridLayoutTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/IOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/LoginFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/TenFloder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo2/UpLoadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo3/BufferedStreamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo3/BufferedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo3/HomeWorkFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo3/ImgFinder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo3/cardLayoutTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/CarouseFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/CarouselThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/ColourThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/DrawImgTest$CanvasTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/DrawImgTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/DrawLineFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/DrawLineThead.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/GetImageByNet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/NumFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/NumThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/NumberFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/NumberThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/ProgressBar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/RunableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/ThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/TimeThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/TimesThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo4/WordsStyle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/Diamond.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/DrawImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/GoShopping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/Market.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/SpcialParallelogram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/TaoBaoMarket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/sm/WallMarket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DateFormatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -139,7 +66,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="128">
               <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -768,7 +695,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.23686337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.24090542" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
