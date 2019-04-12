@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="每日小打卡作业">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="球员进场">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -64,39 +64,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1193#1194#0" expanded="true" />
-                <element signature="e#1226#1227#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/CarouseFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="17" column="58" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="58" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/Admition.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -121,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/StringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateDifferentExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Date.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateAndTime.java" />
@@ -172,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawImgTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/Admition.java" />
       </list>
     </option>
   </component>
@@ -235,15 +204,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="soft1841" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="super-market" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-market" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
-              <item name="demo4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -275,18 +235,18 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\javastudy\super-market\src\image" />
-      <recent name="D:\javastudy\super-market\src" />
-      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo4" />
-      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo3" />
-      <recent name="D:\javastudy\super-market\src\main\resources\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javastudy\super-market\src\main\resources" />
       <recent name="D:\javastudy\super-market\src" />
       <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\sm" />
       <recent name="D:\javastudy\super-market\src\main\resources\fxml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo4" />
+      <recent name="D:\javastudy\super-market\src\image" />
+      <recent name="D:\javastudy\super-market\src" />
+      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo3" />
+      <recent name="D:\javastudy\super-market\src\main\resources\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -579,7 +539,7 @@
       <workItem from="1555022891797" duration="2179000" />
       <workItem from="1555070847784" duration="107000" />
       <workItem from="1555073060662" duration="693000" />
-      <workItem from="1555073938923" duration="624000" />
+      <workItem from="1555073938923" duration="875000" />
     </task>
     <task id="LOCAL-00001" summary="Main.java">
       <created>1545231182094</created>
@@ -700,14 +660,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555074191684</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="球员进场">
+      <created>1555074658503</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555074658503</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132294000" />
+    <option name="totallyTimeSpent" value="132545000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.24090542" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -718,7 +685,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29637095" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29499072" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -767,23 +734,14 @@
     <MESSAGE value="FileLayout流布局的使用及拓展训练" />
     <MESSAGE value="本周小打卡作业" />
     <MESSAGE value="每日小打卡作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="每日小打卡作业" />
+    <MESSAGE value="球员进场" />
+    <option name="LAST_COMMIT_MESSAGE" value="球员进场" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/ArticleListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="116" selection-start-line="14" selection-start-column="116" selection-end-line="14" selection-end-column="116" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateDifferentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -1257,6 +1215,9 @@
           <caret line="17" column="58" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="58" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/Admition.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
