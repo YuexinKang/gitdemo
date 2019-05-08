@@ -1,8 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="球员进场">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="多线程的第一个示例-球员进场">
+      <change afterPath="$PROJECT_DIR$/jar/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/yellow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ClockFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ComponentPaintFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadeBackFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/TimerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/CarouselThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetImagesThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTextThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTimeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/HomeworkFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ImagesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ShadePanel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/ServerThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/super-market.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ComponentPaintFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ComponentPaintFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ComponentPaintFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/CountDownFrame$ImgPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/CountDownFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/CountDownThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ImgPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/JoinDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LightFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LightThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LoginFrame$ImgPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LoginFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/MyButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadeBackFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/CarouselThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/GetImagesThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/GetTextThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/GetTimeThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/HomeworkFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/ImagesEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/ShadePanel2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/ShadePanel2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/ServerThread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/ServerThread4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server2$ServerThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/ServerThread3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-market.iml" beforeDir="false" afterPath="$PROJECT_DIR$/super-market.iml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,13 +164,7 @@
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/Admition.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,57 +186,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateDifferentExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Date.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateAndTime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateDifferentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Article.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/ArticleListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Book.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/BookListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/StudentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/FruitList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/PokerCard.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/PokerList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/PokerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/WeekDay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo1/ClendarTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/Question.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/FlowLayoutPosition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/FoldderTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/BoderLayoutPosition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/BLtest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/BorderLayoutPosition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/UpLoadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/TenFloder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/IOTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/GridLayoutTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/BoxLayoutTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo2/LoginFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo3/ImgFinder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo3/cardLayoutTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo3/BufferedStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo3/BufferedTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo3/HomeWorkFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/RunableTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/ColourThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/GetImgByNet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/GetImageByNet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/CarouselThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/TimeThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/WordsStyle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/ProgressBar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/CarouseFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawLineThead.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawLineFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawImgTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/Admition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/Circles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CircleThread(1).java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/Circle(1).java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CircleThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/combineFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/combineThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ComponentPaintFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/TimerFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ClockFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame(2).java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/JoinDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePane2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadeBackFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/CarouselThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTimeThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ImagesEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/HomeworkFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ShadePanel2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetImagesThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTextThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/ServerThread3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client3.java" />
       </list>
     </option>
   </component>
@@ -157,9 +253,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
-    <option name="width" value="1161" />
-    <option name="height" value="1014" />
+    <option name="x" value="-18" />
+    <option name="width" value="1122" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -170,7 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,6 +303,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -224,7 +320,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554778688637" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -235,18 +331,21 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo7" />
+      <recent name="D:\javastudy\super-market\jar" />
+      <recent name="D:\javastudy\super-market\src\image" />
+      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo5" />
+      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.soft1841.demo6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javastudy\super-market\src\main\resources" />
       <recent name="D:\javastudy\super-market\src" />
       <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\sm" />
       <recent name="D:\javastudy\super-market\src\main\resources\fxml" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo4" />
-      <recent name="D:\javastudy\super-market\src\image" />
-      <recent name="D:\javastudy\super-market\src" />
-      <recent name="D:\javastudy\super-market\src\main\java\com\soft1841\demo3" />
-      <recent name="D:\javastudy\super-market\src\main\resources\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Admition">
+  <component name="RunManager" selected="Application.Client3">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -280,13 +379,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Admition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo4.Admition" />
+    <configuration name="Client2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.demoseven.Client2" />
       <module name="super-market" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.demo4.*" />
+          <option name="PATTERN" value="com.soft1841.demoseven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,13 +393,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarouseFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo4.CarouseFrame" />
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.demoseven.Client3" />
       <module name="super-market" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.demo4.*" />
+          <option name="PATTERN" value="com.soft1841.demoseven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,27 +407,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawImgTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo4.DrawImgTest" />
+    <configuration name="Client4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo7.Client4" />
       <module name="super-market" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.demo4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DrawLineFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo4.DrawLineFrame" />
-      <module name="super-market" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1841.demo4.*" />
+          <option name="PATTERN" value="com.soft1841.demo7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,13 +437,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo4.NumberFrame" />
+    <configuration name="Server3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.demoseven.Server3" />
       <module name="super-market" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.demo4.*" />
+          <option name="PATTERN" value="com.soft1841.demoseven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo7.Server3" />
+      <module name="super-market" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.demo7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,19 +504,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.CarouseFrame" />
-      <item itemvalue="Application.DrawLineFrame" />
-      <item itemvalue="Application.DrawImgTest" />
-      <item itemvalue="Application.NumberFrame" />
-      <item itemvalue="Application.Admition" />
+      <item itemvalue="Application.Client4" />
+      <item itemvalue="Application.Server3" />
+      <item itemvalue="Application.Client2 (1)" />
+      <item itemvalue="Application.Server3 (1)" />
+      <item itemvalue="Application.Client3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Admition" />
-        <item itemvalue="Application.NumberFrame" />
-        <item itemvalue="Application.DrawImgTest" />
-        <item itemvalue="Application.DrawLineFrame" />
-        <item itemvalue="Application.CarouseFrame" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Server3 (1)" />
+        <item itemvalue="Application.Client2 (1)" />
+        <item itemvalue="Application.Client4" />
+        <item itemvalue="Application.Server3" />
       </list>
     </recent_temporary>
   </component>
@@ -540,6 +639,33 @@
       <workItem from="1555070847784" duration="107000" />
       <workItem from="1555073060662" duration="693000" />
       <workItem from="1555073938923" duration="875000" />
+      <workItem from="1555074958524" duration="311000" />
+      <workItem from="1555142274452" duration="39000" />
+      <workItem from="1555285026522" duration="3023000" />
+      <workItem from="1555314631471" duration="3681000" />
+      <workItem from="1555325017057" duration="7758000" />
+      <workItem from="1555332910950" duration="145000" />
+      <workItem from="1555335439404" duration="396000" />
+      <workItem from="1555371074930" duration="1510000" />
+      <workItem from="1555374049855" duration="10057000" />
+      <workItem from="1555390034139" duration="2457000" />
+      <workItem from="1555455975397" duration="584000" />
+      <workItem from="1555498242622" duration="4034000" />
+      <workItem from="1555543933947" duration="50000" />
+      <workItem from="1556089480275" duration="10304000" />
+      <workItem from="1556150829326" duration="3985000" />
+      <workItem from="1556198845675" duration="4042000" />
+      <workItem from="1556256745108" duration="5188000" />
+      <workItem from="1556411962746" duration="766000" />
+      <workItem from="1557095657657" duration="1421000" />
+      <workItem from="1557097102659" duration="185000" />
+      <workItem from="1557127391706" duration="31000" />
+      <workItem from="1557129557277" duration="4306000" />
+      <workItem from="1557136520922" duration="1168000" />
+      <workItem from="1557180875125" duration="1937000" />
+      <workItem from="1557186728668" duration="5312000" />
+      <workItem from="1557268150509" duration="1096000" />
+      <workItem from="1557297505076" duration="2825000" />
     </task>
     <task id="LOCAL-00001" summary="Main.java">
       <created>1545231182094</created>
@@ -667,16 +793,23 @@
       <option name="project" value="LOCAL" />
       <updated>1555074658503</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="多线程的第一个示例-球员进场">
+      <created>1555075212820</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555075212820</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132545000" />
+    <option name="totallyTimeSpent" value="209156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.24090542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2287793" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -684,8 +817,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29499072" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3265306" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30983302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -735,313 +868,102 @@
     <MESSAGE value="本周小打卡作业" />
     <MESSAGE value="每日小打卡作业" />
     <MESSAGE value="球员进场" />
-    <option name="LAST_COMMIT_MESSAGE" value="球员进场" />
+    <MESSAGE value="多线程的第一个示例-球员进场" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程的第一个示例-球员进场" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateDifferentTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/combineFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/combineThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ClockFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="63" column="41" lean-forward="true" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame(2).java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePane2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/JoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/TimerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="91" column="54" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadeBackFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="105" column="14" lean-forward="true" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ComponentPaintFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="53" column="40" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="53" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image/image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="40" />
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Article.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
-          <folding>
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/DateDifferentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="78" lean-forward="true" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/BookListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/FruitList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="21" column="77" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-          <folding>
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/StudentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/PokerCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding>
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/PokerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/PokerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/WeekDay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/ClendarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/FlowLayoutPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/FlowLayoutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/TenFloder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/FolderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/UpLoadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/GridLayoutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/BJ.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/BoxLayoutTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/BorderLayoutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/BorderLayoutPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="74" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo3/BufferedStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo3/BufferedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo3/cardLayoutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-613">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo3/HomeWorkFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3401">
-          <caret line="179" column="12" selection-start-line="179" selection-start-column="12" selection-end-line="179" selection-end-column="12" />
+        <state relative-caret-position="-190">
+          <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1050,174 +972,289 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo3/ImgFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="72" lean-forward="true" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        <state relative-caret-position="-119">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/ThreadTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo3/cardLayoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state relative-caret-position="-955">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/RunableTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/Article.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/RandomNum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo1/ArticleListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo2/IOTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="109">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/CarouselThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="451">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/ColourThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTextThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        <state relative-caret-position="451">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/GetImgByNet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ImagesEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/TimeThread.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/WordsStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-461">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/TimesThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/ProgressBar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetImagesThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/CarouselThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-494">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawLineThead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="451">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawLineFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ShadePanel2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="451">
+          <caret line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTimeThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/GetImageByNet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/image/1.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawImgTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/HomeworkFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        <state relative-caret-position="160">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1193#1194#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="337">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/CarouseFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="58" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="58" />
+        <state relative-caret-position="247">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/Admition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread3.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="81" lean-forward="true" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/ServerThread3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
