@@ -1,110 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="多线程的第一个示例-球员进场">
-      <change afterPath="$PROJECT_DIR$/jar/jsoup-1.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/red.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/yellow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ClockFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ComponentPaintFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/CountDownThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/JoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadeBackFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePanel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/TimerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/CarouselThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetImagesThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTextThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/GetTimeThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/HomeworkFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ImagesEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo6/ShadePanel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/ServerThread4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/ServerThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/super-market.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ClockFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ComponentPaintFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ComponentPaintFrame$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ComponentPaintFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/CountDownFrame$ImgPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/CountDownFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/CountDownThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ImgPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/JoinDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LightFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LightThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LoginFrame$ImgPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/LoginFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/MyButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadeBackFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/ShadePanel2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo5/TimerFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/CarouselThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/GetImagesThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/GetTextThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/GetTimeThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/HomeworkFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/ImagesEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/ShadePanel2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo6/ShadePanel2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Server4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/ServerThread3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/ServerThread4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server2$ServerThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/ServerThread3.class" afterDir="false" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="网络编程">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-market.iml" beforeDir="false" afterPath="$PROJECT_DIR$/super-market.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demo7/Client4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Client3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server2$ServerThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1841/demoseven/Server3.class" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -164,7 +69,46 @@
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/ServerThread4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -186,10 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawLineFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/DrawImgTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo4/Admition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LightThread.java" />
@@ -237,6 +177,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Client4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/ClientFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/ServerThread4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client4.java" />
       </list>
     </option>
   </component>
@@ -266,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,11 +244,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="soft1841" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="super-market" type="b2602c69:ProjectViewProjectNode" />
+              <item name="super-market" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+              <item name="demoseven" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -360,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client3">
+  <component name="RunManager" selected="Application.Client4">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -375,20 +328,6 @@
     </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demoseven.Client2" />
-      <module name="super-market" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1841.demoseven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -408,12 +347,26 @@
       </method>
     </configuration>
     <configuration name="Client4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo7.Client4" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.demoseven.Client4" />
       <module name="super-market" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.demo7.*" />
+          <option name="PATTERN" value="com.soft1841.demoseven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.ClientFrame" />
+      <module name="super-market" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -451,13 +404,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.demo7.Server3" />
+    <configuration name="Server4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.demoseven.Server4" />
       <module name="super-market" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.demo7.*" />
+          <option name="PATTERN" value="com.soft1841.demoseven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -504,19 +457,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Client4" />
-      <item itemvalue="Application.Server3" />
-      <item itemvalue="Application.Client2 (1)" />
       <item itemvalue="Application.Server3 (1)" />
       <item itemvalue="Application.Client3" />
+      <item itemvalue="Application.ClientFrame" />
+      <item itemvalue="Application.Server4" />
+      <item itemvalue="Application.Client4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client4" />
+        <item itemvalue="Application.Server4" />
+        <item itemvalue="Application.ClientFrame" />
         <item itemvalue="Application.Client3" />
         <item itemvalue="Application.Server3 (1)" />
-        <item itemvalue="Application.Client2 (1)" />
-        <item itemvalue="Application.Client4" />
-        <item itemvalue="Application.Server3" />
       </list>
     </recent_temporary>
   </component>
@@ -665,7 +618,9 @@
       <workItem from="1557180875125" duration="1937000" />
       <workItem from="1557186728668" duration="5312000" />
       <workItem from="1557268150509" duration="1096000" />
-      <workItem from="1557297505076" duration="2825000" />
+      <workItem from="1557297505076" duration="2901000" />
+      <workItem from="1557307344326" duration="1090000" />
+      <workItem from="1557354821664" duration="1436000" />
     </task>
     <task id="LOCAL-00001" summary="Main.java">
       <created>1545231182094</created>
@@ -800,16 +755,24 @@
       <option name="project" value="LOCAL" />
       <updated>1555075212820</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="网络编程">
+      <created>1557300375901</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1557300375901</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209156000" />
+    <option name="totallyTimeSpent" value="211758000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-12" y="0" width="748" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.2287793" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" weight="0.23686337" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -850,7 +813,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <MESSAGE value="Main.java" />
     <MESSAGE value="作业" />
@@ -869,27 +831,14 @@
     <MESSAGE value="每日小打卡作业" />
     <MESSAGE value="球员进场" />
     <MESSAGE value="多线程的第一个示例-球员进场" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程的第一个示例-球员进场" />
+    <MESSAGE value="网络编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="网络编程" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/combineFrame.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/Circle.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/combineThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ClockFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="63" column="41" lean-forward="true" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame(2).java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadePane2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/LoginFrame.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -914,13 +863,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/TimerFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="91" column="54" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/ShadeBackFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1653">
@@ -939,9 +881,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/image/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/image/image.jpg">
@@ -1074,16 +1013,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/image/1.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/HomeworkFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo7/Server2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1250,6 +1179,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-171">
           <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo5/TimerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="91" column="54" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/ClientFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo6/HomeworkFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="29" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demo4/NumberFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/ServerThread4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Client4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/soft1841/demoseven/Server4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
